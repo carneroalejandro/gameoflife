@@ -1,6 +1,6 @@
 # The Game of Life, implementation of next generation function.
 Please note that I defined two files, one using a fixed board (fixed_board.js), that resolves the problem as the exercices defines.
-But I didi some research in the web and could't find if the continuous board is an imperative definition in the Conway's game of life, taking this in consideration I also defined the solution to this scenario (continuous_board.js file).
+But I did some research in the web and could't find if the continuous board is an imperative definition in the Conway's game of life, taking this in consideration I also defined the solution to this scenario (continuous_board.js file).
 
 # Excercide definition:
 
